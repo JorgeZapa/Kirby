@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_33.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,90},{46,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{46,42}}</string>
+				<key>sourceSize</key>
+				<string>{46,42}</string>
+			</dict>
+
+			<key>Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_34.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,45},{48,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{48,44}}</string>
+				<key>sourceSize</key>
+				<string>{48,44}</string>
+			</dict>
+
+			<key>Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_35.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,176},{46,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{46,42}}</string>
+				<key>sourceSize</key>
+				<string>{46,42}</string>
+			</dict>
+
+			<key>Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_36.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{47,170},{44,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{44,38}}</string>
+				<key>sourceSize</key>
+				<string>{44,38}</string>
+			</dict>
+
+			<key>Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_37.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{47,209},{40,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{40,40}}</string>
+				<key>sourceSize</key>
+				<string>{40,40}</string>
+			</dict>
+
+			<key>Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_38.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{49,0},{40,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{40,42}}</string>
+				<key>sourceSize</key>
+				<string>{40,42}</string>
+			</dict>
+
+			<key>Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_39.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{48,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{48,44}}</string>
+				<key>sourceSize</key>
+				<string>{48,44}</string>
+			</dict>
+
+			<key>Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_40.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,133},{46,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{46,42}}</string>
+				<key>sourceSize</key>
+				<string>{46,42}</string>
+			</dict>
+
+			<key>Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_41.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{47,90},{44,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{44,38}}</string>
+				<key>sourceSize</key>
+				<string>{44,38}</string>
+			</dict>
+
+			<key>Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_42.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{47,129},{44,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{44,40}}</string>
+				<key>sourceSize</key>
+				<string>{44,40}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{128,256}</string>
+			<key>textureFileName</key>
+			<string>WalkingLeft.png</string>
+			</dict>
+		</dict>
+</plist>
